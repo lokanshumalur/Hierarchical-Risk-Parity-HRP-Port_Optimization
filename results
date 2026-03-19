@@ -1,0 +1,19 @@
+--- Final HRP Weights ---
+QQQ     : 37.20%
+XLK     : 25.32%
+GLD     : 18.18%
+XBI     : 6.84%
+TLT     : 5.15%
+BTC-USD : 4.53%
+SPY     : 2.77%
+
+--- HRP (Out-of-Sample) ---
+Annualized Vol: 15.49%
+Sharpe Ratio:   1.21
+Max Drawdown:   -18.17%
+
+--- Equal Weight (Out-of-Sample) ---
+Annualized Vol: 13.69%
+Sharpe Ratio:   1.14
+Max Drawdown:   -16.13%
+
